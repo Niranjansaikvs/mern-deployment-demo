@@ -1,0 +1,7 @@
+# Ignore sensitive data
+.env
+*.pem
+
+# Ignore dependencies
+node_modules/
+venv/
